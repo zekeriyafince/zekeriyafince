@@ -1,5 +1,7 @@
 ### Hi there, I'm Zekeriya! 👋. 
 
+I'm a JAVA Sofware Engineer ! ☕
+
 <br/>
 <a href="https://www.linkedin.com/in/zekeriyafince/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
