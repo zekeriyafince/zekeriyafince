@@ -3,17 +3,24 @@
 I'm a JAVA Sofware Engineer ! ☕
 
 <br/>
+<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/zekeriyafince/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/zekeriyafince" target="_blank">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+<br/>
+<h3 align="left">Technologies:</h3>
+<p align="left"> 
+<a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/332/332121.png" alt="java" width="30" height="30"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
 
-<a href="https://twitter.com/zekeriyafince" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <br/>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekeriyafince&show_icons=true&theme=radical&locale=en&layout=compact" alt="zekeriyafince" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyafince&show_icons=true&theme=dark&locale=en" alt="zekeriyafince" width="43%" /></p>
 
 <!--
 **zekeriyafince/zekeriyafince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
