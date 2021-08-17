@@ -5,7 +5,7 @@ I'm a JAVA Sofware Engineer ! ☕
 <br/>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/zekeriyafince/" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 <br/>
@@ -13,8 +13,9 @@ I'm a JAVA Sofware Engineer ! ☕
 <p align="left"> 
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/332/332121.png" alt="java" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/document-file-types-green-set-03/338/File_type_Extension_148-128.png" alt="bash" width="30" height="30"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+  <a href="https://www.linux.org" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/226/226772.png" alt="linux" width="30" height="30"/> </a>
 
   <br/>
   
